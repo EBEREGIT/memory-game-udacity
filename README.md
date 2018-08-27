@@ -1,20 +1,24 @@
 # Memory Game Project
+This is a game that requires one to retain content for a good length of time. It is made with JAVASCRIPT, CSS and HTML
 
-## Table of Contents
+## Getting started
+### Dependencies
+-Bootstrap
+-Google fonts 
+-web browser
+-Internet access
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+### Installation
+-No special installation required.
+-use the link https://eberegit.github.io/memory-game-udacity/ to visit the game site
+-The game can also be cloned or downloaded from https://github.com/EBEREGIT/memory-game-udacity.git
 
-## Instructions
+## Playing the game
+### How to play the game
+Click on each card to display the content in two's. if they match, it will not unflip but if they do not match the cards will unflip. Retain the card images as they are flipped so that all cards can be matched with minimum number of moves
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+### How to win
+-To win, all cards must be matched in not more than 14 moves. More than 20 moves is a loss
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## Author
+-Njoku Samson Ebere: https://eberegit.github.io/portfolio_udacity/index.html
